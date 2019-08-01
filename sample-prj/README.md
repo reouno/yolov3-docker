@@ -9,3 +9,7 @@
 # sample source code
 
 Please refer to "./sample.py"
+
+# Run sample
+
+just run `run.sh` after creating the docker image with `../build.sh`.
